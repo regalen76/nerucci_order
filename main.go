@@ -5,6 +5,7 @@ import (
 	"log"
 	"net"
 
+	_ "github.com/joho/godotenv/autoload"
 	common "github.com/regalen76/nerucci_common"
 	"google.golang.org/grpc"
 )
