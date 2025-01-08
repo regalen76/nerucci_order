@@ -5,7 +5,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/regalen76/common"
+	common "github.com/regalen76/nerucci_common"
 	"google.golang.org/grpc"
 )
 

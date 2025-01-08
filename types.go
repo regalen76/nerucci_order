@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 
-	pb "github.com/regalen76/common/api"
+	pb "github.com/regalen76/nerucci_common/api"
 )
 
 type OrdersService interface {
