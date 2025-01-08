@@ -1,4 +1,4 @@
-module github.com/regalen76/orders
+module github.com/regalen76/nerucci_orders
 
 go 1.23.4
 
